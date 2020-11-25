@@ -1,0 +1,113 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"  
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "Como_elegir_el_destino_para_exportar",
+    "title": "1. ¿Cómo elegir el destino para exportar?",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Como_elegir_el_destino_para_exportar",
+        "title": "1.1 Factores para la selección de mercados",
+        "anchor": "11"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Como_elegir_el_destino_para_exportar",
+        "title": "1.2 Etapas en la selección de mercado",
+        "anchor": "12"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Como_elegir_el_destino_para_exportar",
+        "title": "1.3 ¿Para qué se realiza un estudio de mercado?",
+        "anchor": "13"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Como_elegir_el_destino_para_exportar",
+        "title": "1.4 ¿De dónde se saca la información?",
+        "anchor": "14"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Como_elegir_el_destino_para_exportar",
+        "title": "1.5 Detalles sobre el estudio de mercado",
+        "anchor": "15"
+      }       
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Barreras_a_mercados_internacionales",
+    "title": "2. Barreras a mercados internacionales",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Barreras_a_mercados_internacionales",
+        "title": "2.1 Barreras arancelarias",
+        "anchor": "21"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Barreras_a_mercados_internacionales",
+        "title": "2.2 Barreras no arancelarias",
+        "anchor": "22"
+      }       
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Arancel_de_aduanas",
+    "title": "3. Arancel de aduanas",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Arancel_de_aduanas",
+        "title": "3.1 Derechos de aduana",
+        "anchor": "31"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Arancel_de_aduanas",
+        "title": "3.2 Sistema armonizado",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Arancel_de_aduanas",
+        "title": "3.3 Historia del arancel de aduanas",
+        "anchor": "33"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Arancel_de_aduanas",
+        "title": "3.4 ¿Por qué debo tener una partida arancelaria?",
+        "anchor": "34"
+      }
+    ]
+  }
+
+]
